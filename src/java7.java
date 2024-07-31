@@ -6,18 +6,16 @@ public class java7 {
 
         System.out.println("Enter a Number");
         int x= sc.nextInt();
-        //int y= sc.nextInt();
-        //String c=sc.next();
 
-       /* if(x%2==0) {
+        /* int y= sc.nextInt();
+           String c=sc.next();
+
+     if(x%2==0) {
             System.out.println(x+"   is EVEN");
         } else {
             System.out.println(x+"   is ODD");
         }
 
-        */
-
-        /*
         if(x==y){
             System.out.println("Both Number is Same");
         } else if (x>y) {
